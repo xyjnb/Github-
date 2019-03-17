@@ -10,13 +10,13 @@ git init<br>
 git clone https://github.com/fjyazzy/wxTest.git<br>
 添加远程git库目标<br>
 git remote add wx https://github.com/fjyazzy/wxTest.git<br>
-把最新版本的代码库拖到本地
+把最新版本的代码库拖到本地<br>
 git pull wx master<br>
 ---
 修改本地代码<br>
 ---
 Git add . (注意 "." 不能漏掉)<br>
-git commit "修改说明"
-Git push wx master
+git commit "修改说明"<br>
+Git push wx master<br>
 
 
